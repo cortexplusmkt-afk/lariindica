@@ -1,0 +1,15 @@
+﻿node_modules/
+.env
+dist/
+
+# Dados gerados pelo bot
+data/*.json
+
+# Sessões locais - NUNCA subir
+data/chrome-profile/
+data/whatsapp-profile/
+
+# Imagens temporárias
+data/images/
+
+.playwright/
